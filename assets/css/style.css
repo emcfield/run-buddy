@@ -66,7 +66,6 @@ section {
     position: relative;
     height: 600px;
 }
-/* Hero Style End */
 .hero-form {
     color: #024e76;
     background-color: #fce138;
@@ -79,11 +78,9 @@ section {
     position: absolute;
     bottom: 20px;
 }
-
 .hero-form p {
     margin: 5px 0 15px 0;
 }
-
 .form-input {
     border: 1px solid #024e76;
     display: block;
@@ -104,3 +101,11 @@ h3 {
     font-size: 24px;
     margin: 0;
 }
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+/* Hero Style End */
