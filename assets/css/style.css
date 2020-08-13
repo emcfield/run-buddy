@@ -61,25 +61,23 @@ section {
 /* Hero Style Start */
 .hero {
     background-image: url("../images/Hero Img.jpg");
-    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+    height: 600px;
 }
 /* Hero Style End */
 .hero-form {
-color: #024e76;
-background-color: #fce138;
-padding: 20px;
-width: 500px;
-border: 3px solid #024e76;
-position: absolute;
-bottom: 120px;
-right: 140px;
-}
-.hero-form {
+    color: #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    border: 3px solid #024e76;
+    right: 140px;
     font-size: 24px;
     margin: 0;
+    position: absolute;
+    bottom: 20px;
 }
 
 .hero-form p {
@@ -95,7 +93,14 @@ right: 140px;
     width: 100%;
     margin-bottom: 15px;
 }
-
 .hero-form label {
     margin: 0 5px;
+}
+h3 {
+    margin: 0px;
+    font-size: 30px;
+}
+.hero-form h3 {
+    font-size: 24px;
+    margin: 0;
 }
