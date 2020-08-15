@@ -166,3 +166,24 @@ h3 {
 .steps span {
     font-size: 38px;
 }
+
+.trainer {
+    text-align: center;
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #024e76;
+    color: #fce138;
+    margin: 0 auto 30px auto;
+}
+
+.trainer img {
+   width: 35%;
+   float: left; 
+   overflow: auto;
+}
+
+.trainer-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
