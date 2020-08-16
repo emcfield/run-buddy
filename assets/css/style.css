@@ -167,7 +167,8 @@ h3 {
     font-size: 38px;
 }
 
-.trainer {
+/* TRAINERS SECTION (CONTAINER) */
+.trainers {
     text-align: center;
     width: 900px;
     margin: 0 auto 30px auto;
@@ -186,4 +187,13 @@ h3 {
     padding: 35px;
     float: left;
     width: 65%;
+    overflow: auto;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
 }
