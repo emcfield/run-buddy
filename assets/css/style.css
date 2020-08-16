@@ -177,7 +177,7 @@ h3 {
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
-    margin: 0 auto 30px auto;
+    overflow: auto;
 }
 
 .trainer img {
